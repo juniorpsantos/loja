@@ -1,0 +1,66 @@
+.header{
+    background-color:#410454; 
+    color:#fff;
+    
+  }
+
+  .header i{
+    color:#fff;
+  }
+
+  .header p{
+    color:#fff!important;
+  }
+
+
+#topo{
+    background: #410454!important;
+    color:#fff;
+    
+  }
+
+  #topo i{
+    color:#fff;
+  }
+
+  #topo p a{
+    color:#fff;
+  }
+
+  .footer{
+    background-color: #410454!important;
+    color: #fff;
+  }
+
+  .footer p{
+    color: #fff;
+  }
+
+  .footer h4{
+    color: #fff!important;
+  }
+
+  .footer a{
+    color: #fff!important;
+  }
+
+  .header-top .container::after{
+    height:.1rem;
+    background-color:#fff!important;
+    }
+
+   /*GALERIA DE IMAGENS DOS PRODUTOS MAYKONSILVEIRA.COM.BR*/
+  .product-image-gallery{
+    max-height: 460px;
+    overflow: auto!important;
+  }
+
+  .product-image-gallery::-webkit-scrollbar{
+    width: 7px;
+  }
+
+  .product-image-gallery::-webkit-scrollbar-thumb{
+    background-color:#eee;
+   
+  }
+  
